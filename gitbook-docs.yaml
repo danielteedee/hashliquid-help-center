@@ -2,10 +2,29 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: HashLiquid Help Center
   structure:
-    - type: space
-      key: space-help-center
-      title: Help Center
-      path: help-center
+    - type: section
+      key: section-1
+      title: HashLiquid Help Center
+      path: hashliquid-help-center
       default: true
-      content:
-        directory: ./help-center
+      children:
+        - type: space
+          key: space-help-center
+          title: Help Center
+          path: help-center
+          default: true
+          content:
+            directory: ./help-center
+    - type: section
+      key: section-2
+      title: Untitled
+      path: untitled
+      children:
+        - type: space
+          key: space-1
+          title: Untitled
+          path: untitled
+          default: true
+          draft: true
+          content:
+            directory: ./untitled
