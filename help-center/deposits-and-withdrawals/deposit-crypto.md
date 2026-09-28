@@ -1,5 +1,7 @@
 ---
-description: "Transfer USDT from your connected wallet to your HashLiquid Account via BNB Chain."
+description: >-
+  Transfer USDT from your connected wallet to your HashLiquid Account via BNB
+  Chain.
 icon: arrow-down-to-bracket
 ---
 
@@ -33,7 +35,7 @@ Check that the network is **BNB Chain** and the asset is **USDT**.
 
 Enter the amount, or select **Max** to use the available balance shown on the page.
 
-<figure><img src="../assets/deposit-enter-amount.png" alt="Enter a deposit amount"><figcaption><p>Enter a deposit amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/deposit-enter-amount.png" alt="Enter a deposit amount"><figcaption><p>Enter a deposit amount</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

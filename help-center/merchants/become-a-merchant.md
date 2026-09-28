@@ -1,5 +1,5 @@
 ---
-description: "Apply to become a HashLiquid Merchant so you can post Advertisements."
+description: Apply to become a HashLiquid Merchant so you can post Advertisements.
 icon: store
 ---
 
@@ -11,12 +11,12 @@ You must become a HashLiquid Merchant before you can post Advertisements. Select
 
 Prepare:
 
-- [ ] Your Telegram username
-- [ ] Information about your previous OTC or P2P trading experience
-- [ ] A recording of your trading history, if requested by the form
-- [ ] An identity declaration video
-- [ ] A bank statement covering the last three months
-- [ ] Both sides of your photo ID
+* [ ] Your Telegram username
+* [ ] Information about your previous OTC or P2P trading experience
+* [ ] A recording of your trading history, if requested by the form
+* [ ] An identity declaration video
+* [ ] A bank statement covering the last three months
+* [ ] Both sides of your photo ID
 
 {% hint style="info" %}
 Use clear, accurate files that belong to you. Follow the declaration text and file requirements shown on the application form.
@@ -42,7 +42,7 @@ Enter your Telegram username in the format shown on the page.
 
 Confirm whether you have traded on another OTC or P2P platform.
 
-<figure><img src="../assets/merchant-form-telegram-experience.png" alt="Telegram username and prior P2P trading experience"><figcaption><p>Telegram username and prior P2P trading experience</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/merchant-form-telegram-experience.png" alt="Telegram username and prior P2P trading experience"><figcaption><p>Telegram username and prior P2P trading experience</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -62,7 +62,7 @@ Upload a video of yourself holding the front of your ID and reading the declarat
 
 Upload a bank statement for the last three months. It must show your full name, account number, and residential address.
 
-<figure><img src="../assets/merchant-form-video-bank-statement.png" alt="Identity declaration video and bank statement uploads"><figcaption><p>Identity declaration video and bank statement uploads</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/merchant-form-video-bank-statement.png" alt="Identity declaration video and bank statement uploads"><figcaption><p>Identity declaration video and bank statement uploads</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -70,7 +70,7 @@ Upload a bank statement for the last three months. It must show your full name, 
 
 Upload both sides of your photo ID.
 
-<figure><img src="../assets/merchant-form-photo-id.png" alt="Photo ID upload and application limit"><figcaption><p>Photo ID upload and application limit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/merchant-form-photo-id.png" alt="Photo ID upload and application limit"><figcaption><p>Photo ID upload and application limit</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

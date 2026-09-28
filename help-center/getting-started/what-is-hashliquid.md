@@ -1,5 +1,5 @@
 ---
-description: "An overview of HashLiquid P2P trading, Express, and the P2P Zone."
+description: An overview of HashLiquid P2P trading, Express, and the P2P Zone.
 icon: circle-info
 ---
 
@@ -7,7 +7,9 @@ icon: circle-info
 
 HashLiquid is a P2P crypto trading platform where eligible users can buy and sell crypto using supported local payment methods. You can access HashLiquid by email, Google, Binance Login, Binance Wallet, or WalletConnect.
 
-<figure><img src="../assets/home-page.png" alt="HashLiquid home page"><figcaption><p>HashLiquid home page</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-28 at 09.49.47 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How does HashLiquid P2P trading work?
 

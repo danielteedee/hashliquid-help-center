@@ -1,5 +1,5 @@
 ---
-description: "Sign in with email, Google, Binance Login, Binance Wallet, or WalletConnect."
+description: Sign in with email, Google, Binance Login, Binance Wallet, or WalletConnect.
 icon: right-to-bracket
 ---
 
@@ -13,7 +13,7 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 2. Choose **Log in with Email**, **Google**, **Binance Login**, **Binance Wallet**, or **Wallet Connect**.
 3. Follow the on-screen prompts for the method you selected. Email and Google users complete the sign-in prompts shown by HashLiquid; Binance and wallet users may also need to authorize the connection.
 
-<figure><img src="../assets/access-options.png" alt="HashLiquid access options"><figcaption><p>HashLiquid access options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/access-options.png" alt="HashLiquid access options"><figcaption><p>HashLiquid access options</p></figcaption></figure>
 
 ## Access with Binance Login
 
@@ -25,7 +25,7 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 Only approve the request if you recognize HashLiquid and the Binance Account shown on the page.
 {% endhint %}
 
-<figure><img src="../assets/binance-authorization.png" alt="Review Binance authorization"><figcaption><p>Review Binance authorization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/binance-authorization.png" alt="Review Binance authorization"><figcaption><p>Review Binance authorization</p></figcaption></figure>
 
 ## Access with Binance Wallet or WalletConnect
 
@@ -50,7 +50,7 @@ After you sign in, select the **account** icon in the upper-right corner. From t
 * **FAQ**
 * **Disconnect**
 
-<figure><img src="../assets/account-menu.png" alt="HashLiquid account menu"><figcaption><p>HashLiquid account menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/account-menu.png" alt="HashLiquid account menu"><figcaption><p>HashLiquid account menu</p></figcaption></figure>
 
 ### Set up order notifications
 
@@ -60,7 +60,7 @@ To choose how you receive order alerts, open **Notification** and enable **Sound
 Keep at least one channel enabled while you have an active P2P order.
 {% endhint %}
 
-<figure><img src="../assets/notification-settings.png" alt="Notification settings"><figcaption><p>Notification settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/notification-settings.png" alt="Notification settings"><figcaption><p>Notification settings</p></figcaption></figure>
 
 ## Related articles
 

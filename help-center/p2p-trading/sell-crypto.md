@@ -1,5 +1,7 @@
 ---
-description: "Sell crypto with Express or the P2P Zone and release it only after you are paid."
+description: >-
+  Sell crypto with Express or the P2P Zone and release it only after you are
+  paid.
 icon: hand-holding-dollar
 ---
 
@@ -39,7 +41,7 @@ Under **Receive Using**, select the account where you want to receive payment. I
 
 Select **Select Ads**.
 
-<figure><img src="../assets/sell-enter-amount.png" alt="Enter a sell amount"><figcaption><p>Enter a sell amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sell-enter-amount.png" alt="Enter a sell amount"><figcaption><p>Enter a sell amount</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -53,7 +55,7 @@ Review the matched Advertisement, including the price, Merchant, Payment Method,
 
 Select **Place Order**.
 
-<figure><img src="../assets/sell-confirm-order.png" alt="Confirm a sell order"><figcaption><p>Confirm a sell order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sell-confirm-order.png" alt="Confirm a sell order"><figcaption><p>Confirm a sell order</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}

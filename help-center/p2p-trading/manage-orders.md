@@ -1,5 +1,7 @@
 ---
-description: "Find your Buy and Sell orders, check their status, and continue or cancel an order."
+description: >-
+  Find your Buy and Sell orders, check their status, and continue or cancel an
+  order.
 icon: list-check
 ---
 
@@ -39,7 +41,7 @@ Use **All**, **Ongoing**, or **Dispute** to find the order you need.
 
 Select an order to open its details.
 
-<figure><img src="../assets/orders-active-order.png" alt="Active P2P order"><figcaption><p>Active P2P order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/orders-active-order.png" alt="Active P2P order"><figcaption><p>Active P2P order</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

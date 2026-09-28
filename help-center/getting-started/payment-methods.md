@@ -1,5 +1,5 @@
 ---
-description: "Add, edit, or remove the accounts buyers pay you through."
+description: Add, edit, or remove the accounts buyers pay you through.
 icon: credit-card
 ---
 
@@ -31,7 +31,7 @@ Select **Payment Method**.
 
 Select **Add a Payment Method**.
 
-<figure><img src="../assets/payment-method-list.png" alt="Payment Method list"><figcaption><p>Payment Method list</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-method-list.png" alt="Payment Method list"><figcaption><p>Payment Method list</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -39,7 +39,7 @@ Select **Add a Payment Method**.
 
 Choose a bank or payment service and enter the requested account information.
 
-<figure><img src="../assets/payment-method-select.png" alt="Select a Payment Method"><figcaption><p>Select a Payment Method</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/payment-method-select.png" alt="Select a Payment Method"><figcaption><p>Select a Payment Method</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
