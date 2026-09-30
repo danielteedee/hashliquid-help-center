@@ -35,7 +35,7 @@ Under **Pay Using**, select an available Payment Method.
 
 Select **Select Ads**.
 
-<figure><img src="../.gitbook/assets/buy-select-advertisement.png" alt="Select an Advertisement"><figcaption><p>Select an Advertisement</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_07_01_Select_Advertisement (1).png" alt="Select an Advertisement"><figcaption><p>Select an Advertisement</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -49,7 +49,7 @@ Review the matched Advertisement, including its price, Merchant, limits, Payment
 
 Select **Place Order**.
 
-<figure><img src="../.gitbook/assets/buy-confirm-order.png" alt="Confirm a buy order"><figcaption><p>Confirm a buy order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_07_02_Confirm_Buy_Order.png" alt="Confirm a buy order"><figcaption><p>Confirm a buy order</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
@@ -103,7 +103,7 @@ Open the order and use the payment details shown to transfer the exact amount th
 
 Upload payment proof if requested, then select **Mark as Paid** only after the transfer has been submitted successfully.
 
-<figure><img src="../.gitbook/assets/buy-complete-payment.png" alt="Complete payment"><figcaption><p>Complete payment</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_07_03_Complete_Payment.png" alt="Complete payment"><figcaption><p>Complete payment</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -111,7 +111,7 @@ Upload payment proof if requested, then select **Mark as Paid** only after the t
 
 Wait for the seller to confirm receipt and release the crypto.
 
-<figure><img src="../.gitbook/assets/buy-order-pending-release.png" alt="Order pending release"><figcaption><p>Order pending release</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_07_04_Order_Pending_Release.png" alt="Order pending release"><figcaption><p>Order pending release</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

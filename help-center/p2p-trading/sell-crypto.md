@@ -41,7 +41,7 @@ Under **Receive Using**, select the account where you want to receive payment. I
 
 Select **Select Ads**.
 
-<figure><img src="../.gitbook/assets/sell-enter-amount.png" alt="Enter a sell amount"><figcaption><p>Enter a sell amount</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_08_01_Enter_Sell_Amount.png" alt="Enter a sell amount"><figcaption><p>Enter a sell amount</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -55,7 +55,7 @@ Review the matched Advertisement, including the price, Merchant, Payment Method,
 
 Select **Place Order**.
 
-<figure><img src="../.gitbook/assets/sell-confirm-order.png" alt="Confirm a sell order"><figcaption><p>Confirm a sell order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_08_02_Confirm_Sell_Order.png" alt="Confirm a sell order"><figcaption><p>Confirm a sell order</p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}
