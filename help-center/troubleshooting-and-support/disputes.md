@@ -32,7 +32,7 @@ Open the relevant order.
 
 Select **Dispute** when the button becomes available.
 
-<figure><img src="../.gitbook/assets/dispute-open.png" alt="Open Dispute from the order"><figcaption><p>Open Dispute from the order</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_11_01_Open_Dispute_from_Order.png" alt="Open Dispute from the order"><figcaption><p>Open Dispute from the order</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -62,7 +62,7 @@ The Dispute page shows the review progress. HashLiquid Customer Support may revi
 **Review hours:** Hash Support reviews Disputes from 7:00 AM to 5:00 PM (UTC+8). This is the support review window and does not guarantee that a Dispute will be resolved within the same day.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/dispute-review-stages.png" alt="Dispute review stages"><figcaption><p>Dispute review stages</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_11_02_Dispute_Review_Stages.png" alt="Dispute review stages"><figcaption><p>Dispute review stages</p></figcaption></figure>
 
 If HashLiquid requests more information, return to the Dispute and submit it before the deadline shown on the page.
 
@@ -70,7 +70,7 @@ If HashLiquid requests more information, return to the Dispute and submit it bef
 Crypto related to the order remains frozen until the Dispute is resolved.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/dispute-order-in-dispute.png" alt="Order in dispute"><figcaption><p>Order in dispute</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_11_03_Order_In_Dispute.png" alt="Order in dispute"><figcaption><p>Order in dispute</p></figcaption></figure>
 
 ## Cancel a Dispute
 
