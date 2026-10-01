@@ -42,7 +42,9 @@ Enter your Telegram username in the format shown on the page.
 
 Confirm whether you have traded on another OTC or P2P platform.
 
-<figure><img src="../.gitbook/assets/merchant-form-telegram-experience.png" alt="Telegram username and prior P2P trading experience"><figcaption><p>Telegram username and prior P2P trading experience</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Merchant application form Telegram username and prior P2P trading experience" alt="Merchant application form: Telegram username and prior P2P trading experience" width="563">
 {% endstep %}
 
 {% step %}
@@ -62,7 +64,9 @@ Upload a video of yourself holding the front of your ID and reading the declarat
 
 Upload a bank statement for the last three months. It must show your full name, account number, and residential address.
 
-<figure><img src="../.gitbook/assets/merchant-form-video-bank-statement.png" alt="Identity declaration video and bank statement uploads"><figcaption><p>Identity declaration video and bank statement uploads</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Merchant application form identity declaration video and bank statement uploads; example identity hidden" alt="Merchant application form: identity declaration video and bank statement uploads; example identity hidden" width="563">
 {% endstep %}
 
 {% step %}
@@ -70,7 +74,9 @@ Upload a bank statement for the last three months. It must show your full name, 
 
 Upload both sides of your photo ID.
 
-<figure><img src="../.gitbook/assets/merchant-form-photo-id.png" alt="Photo ID upload and application limit"><figcaption><p>Photo ID upload and application limit</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Merchant application form photo ID upload and application limit; example documents hidden" alt="Merchant application form: photo ID upload and application limit; example documents hidden" width="563">
 {% endstep %}
 
 {% step %}

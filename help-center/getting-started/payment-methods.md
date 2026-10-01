@@ -21,8 +21,6 @@ Sign in to HashLiquid and select the **account** icon.
 {% endstep %}
 
 {% step %}
-**Open Payment Method**
-
 Select **Payment Method**.
 {% endstep %}
 
@@ -31,7 +29,9 @@ Select **Payment Method**.
 
 Select **Add a Payment Method**.
 
-<figure><img src="../.gitbook/assets/payment-method-list.png" alt="Payment Method list"><figcaption><p>Payment Method list</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image12 (1).png" alt="payment method list" height="418" width="327">
 {% endstep %}
 
 {% step %}
@@ -39,7 +39,9 @@ Select **Add a Payment Method**.
 
 Choose a bank or payment service and enter the requested account information.
 
-<figure><img src="../.gitbook/assets/payment-method-select.png" alt="Select a Payment Method"><figcaption><p>Select a Payment Method</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image13 (1).png" alt="Select a payment method" height="418" width="365">
 {% endstep %}
 
 {% step %}

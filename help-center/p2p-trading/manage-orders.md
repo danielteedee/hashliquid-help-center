@@ -41,7 +41,9 @@ Use **All**, **Ongoing**, or **Dispute** to find the order you need.
 
 Select an order to open its details.
 
-<figure><img src="../.gitbook/assets/orders-active-order.png" alt="Active P2P order"><figcaption><p>Active P2P order</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image23.png" alt="Active P2P Order" height="222" width="523">
 {% endstep %}
 {% endstepper %}
 

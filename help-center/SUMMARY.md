@@ -25,7 +25,7 @@
 * [What should I do if there is a payment or crypto-release problem?](troubleshooting-and-support/payment-release-problems.md "Payment & release problems")
 * [How do I open and manage a Dispute?](troubleshooting-and-support/disputes.md "Disputes")
 * [What should I do if my deposit or withdrawal is delayed or failed?](troubleshooting-and-support/delayed-transfers.md "Delayed or failed transfers")
-* [Contact Hash Support](troubleshooting-and-support/contact-hash-support.md)
+* [Contact HashLiquid Support](troubleshooting-and-support/contact-hash-support.md)
 
 ## 🏪 Merchants
 

@@ -35,7 +35,9 @@ Check that the network is **BNB Chain** and the asset is **USDT**.
 
 Enter the amount, or select **Max** to use the available balance shown on the page.
 
-<figure><img src="../.gitbook/assets/deposit-enter-amount.png" alt="Enter a deposit amount"><figcaption><p>Enter a deposit amount</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image14.png" alt="enter a deposit amount" width="563">
 {% endstep %}
 
 {% step %}

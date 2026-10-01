@@ -13,7 +13,7 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 2. Choose **Log in with Email**, **Google**, **Binance Login**, **Binance Wallet**, or **Wallet Connect**.
 3. Follow the on-screen prompts for the method you selected. Email and Google users complete the sign-in prompts shown by HashLiquid; Binance and wallet users may also need to authorize the connection.
 
-<figure><img src="../.gitbook/assets/access-options.png" alt="HashLiquid access options"><figcaption><p>HashLiquid access options</p></figcaption></figure>
+<img src="../.gitbook/assets/Image image2.png" alt="Hashliquid access options" width="375">
 
 ## Access with Binance Login
 
@@ -25,9 +25,9 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 Only approve the request if you recognize HashLiquid and the Binance Account shown on the page.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/binance-authorization.png" alt="Review Binance authorization"><figcaption><p>Review Binance authorization</p></figcaption></figure>
+<img src="../.gitbook/assets/Image image3 (2).png" alt="Review Binance Authorization" width="281">
 
-## Access with Binance Wallet or WalletConnect
+Access with Binance Wallet or WalletConnect
 
 1. Select **Binance Wallet** or **Wallet Connect** on the HashLiquid access page.
 2. If you selected **Wallet Connect**, choose an available wallet.
@@ -50,7 +50,7 @@ After you sign in, select the **account** icon in the upper-right corner. From t
 * **FAQ**
 * **Disconnect**
 
-<figure><img src="../.gitbook/assets/account-menu.png" alt="HashLiquid account menu"><figcaption><p>HashLiquid account menu</p></figcaption></figure>
+<img src="../.gitbook/assets/Image image4.png" alt="Hashliquid Account Menu" width="375">
 
 ### Set up order notifications
 
@@ -60,7 +60,7 @@ To choose how you receive order alerts, open **Notification** and enable **Sound
 Keep at least one channel enabled while you have an active P2P order.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/notification-settings.png" alt="Notification settings"><figcaption><p>Notification settings</p></figcaption></figure>
+<img src="../.gitbook/assets/Image image5.png" alt="Notification settings" height="245" width="434">
 
 ## Related articles
 

@@ -26,19 +26,19 @@ Select **Verifications**.
 **Choose your country and document**
 
 Select your **Country of Residence** and document type.
-
-<figure><img src="../.gitbook/assets/verify-select-country-document.png" alt="Select country and identity document"><figcaption><p>Select country and identity document</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
+<img src="../.gitbook/assets/Image image6.png" alt="Select country anf identity document" height="295" width="523">
+
 **Choose a verification device**
 
 Choose **Verify with Current Device**, or select **Verify with Phone** and scan the QR code.
-
-<figure><img src="../.gitbook/assets/verify-choose-device.png" alt="Choose verification device"><figcaption><p>Choose verification device</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
+<img src="../.gitbook/assets/Image image7.png" alt="Choose Verification device" height="295" width="523">
+
 **Upload your document**
 
 Follow the on-screen instructions to upload your document. If you use an ID Card, upload both requested sides.
@@ -46,24 +46,26 @@ Follow the on-screen instructions to upload your document. If you use an ID Card
 {% hint style="info" %}
 Make sure the document is clear, complete, and belongs to you.
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/verify-upload-document.png" alt="Upload identity document"><figcaption><p>Upload identity document</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
+<img src="../.gitbook/assets/Image image8.png" alt="Upload identity document" height="295" width="523">
+
 **Confirm your information**
 
 Review the information extracted from your document. Complete any required fields, then select **Continue**.
-
-<figure><img src="../.gitbook/assets/verify-confirm-information.png" alt="Confirm identity information"><figcaption><p>Confirm identity information</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
+<img src="../.gitbook/assets/Image image9.png" alt="confirm Identity Infiormation" height="347" width="523">
+
 **Complete the liveness check**
 
 Complete the liveness check by following the actions shown on screen.
+{% endstep %}
 
-<figure><img src="../.gitbook/assets/verify-liveness-check.png" alt="Complete liveness check"><figcaption><p>Complete liveness check</p></figcaption></figure>
+{% step %}
+<img src="../.gitbook/assets/Image image11 (1).png" alt="complete liveness check" height="295" width="523">
 {% endstep %}
 {% endstepper %}
 
@@ -79,7 +81,7 @@ Select **Try Again**, then:
 * Remove glasses, a mask, or a hat.
 * Keep your full face inside the camera frame.
 
-<figure><img src="../.gitbook/assets/verify-liveness-retry.png" alt="Retry liveness check"><figcaption><p>Retry liveness check</p></figcaption></figure>
+<img src="../.gitbook/assets/Image image11.png" alt="Retry Liveness check" height="295" width="523">
 
 ## Related articles
 

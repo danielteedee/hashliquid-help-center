@@ -43,7 +43,9 @@ Confirm that the asset is **USDT** and the network is **BNB Chain**.
 
 Enter the amount, or select **Max** to use the available balance.
 
-<figure><img src="../.gitbook/assets/withdraw-enter-amount.png" alt="Enter a withdrawal amount"><figcaption><p>Enter a withdrawal amount</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image15.png" alt="Enter a withdrawal amount" width="563">
 {% endstep %}
 
 {% step %}
@@ -51,7 +53,9 @@ Enter the amount, or select **Max** to use the available balance.
 
 Review the **Network Fee** and **Receive Amount**.
 
-<figure><img src="../.gitbook/assets/withdraw-review-fee.png" alt="Review the fee and receive amount"><figcaption><p>Review the fee and receive amount</p></figcaption></figure>
+
+
+<img src="../.gitbook/assets/Image image16.png" alt="Review the fee and receive amount" width="375">
 {% endstep %}
 
 {% step %}
