@@ -1,0 +1,84 @@
+---
+description: Transfer USDT out of your HashLiquid Account via BNB Smart Chain.
+icon: arrow-up-from-bracket
+---
+
+# How do I withdraw crypto from HashLiquid?
+
+Use **Withdraw** to transfer USDT from your HashLiquid Account via BNB Smart Chain. Before confirming, check the account or wallet shown for the transfer.
+
+## Before you begin
+
+* Check the account or wallet displayed on the withdrawal page. Depending on how you accessed HashLiquid, the page may show **Binance Funding Wallet**, **HashLiquid Account**, or **Connected Wallet**.
+* Make sure the receiving account or wallet shown supports USDT via BNB Smart Chain.
+* Make sure your HashLiquid balance covers the withdrawal amount and any fee shown.
+
+{% hint style="danger" %}
+**Important:** On-chain transfers normally cannot be reversed. Check the asset, network, amount, and connected wallet before confirming.
+{% endhint %}
+
+## Withdraw crypto
+
+{% stepper %}
+{% step %}
+**Open Withdraw**
+
+Sign in to HashLiquid and select **Withdraw**.
+{% endstep %}
+
+{% step %}
+**Check the tab**
+
+Make sure the **Withdraw** tab is selected.
+{% endstep %}
+
+{% step %}
+**Check the asset and network**
+
+Confirm that the asset is **USDT** and the network is **BNB Smart Chain**.
+{% endstep %}
+
+{% step %}
+**Enter the amount**
+
+Enter the amount, or select **Max** to use the available balance.
+
+
+
+<img src="../.gitbook/assets/Image image15.png" alt="Enter a withdrawal amount" width="563">
+{% endstep %}
+
+{% step %}
+**Review the fee**
+
+Review the **Network Fee** and **Receive Amount**.
+
+
+
+<img src="../.gitbook/assets/Image image16.png" alt="Review the fee and receive amount" width="375">
+{% endstep %}
+
+{% step %}
+**Select Withdraw**
+
+Select **Withdraw**.
+{% endstep %}
+
+{% step %}
+**Confirm the request**
+
+Complete the confirmation requested on screen. A wallet-connected user may also be asked to approve the request in the connected wallet.
+{% endstep %}
+{% endstepper %}
+
+## Check the withdrawal status
+
+Open the account menu, select **Transaction History**, and open the relevant withdrawal. The status may remain **Processing** while the network and HashLiquid update the transaction.
+
+Do not submit the same withdrawal again while it is **Processing**. If it remains unresolved, [contact HashLiquid Support](../troubleshooting-and-support/contact-hash-support.md) with the asset, amount, network, and submission time. Include the transaction hash or ID if one is available.
+
+## Related articles
+
+* [How do I deposit crypto to HashLiquid?](deposit-crypto.md)
+* [What should I do if my deposit or withdrawal is delayed or failed?](../troubleshooting-and-support/delayed-transfers.md)
+* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/wrong-network.md)
