@@ -31,9 +31,7 @@ Select **Payment Method**.
 
 Select **Add a Payment Method**.
 
-
-
-<img src="../.gitbook/assets/Image image12 (1).png" alt="Payment Method list" height="418" width="327">
+<img src="../.gitbook/assets/Image image12.png" alt="Payment Method list" height="418" width="327">
 {% endstep %}
 
 {% step %}
@@ -41,9 +39,7 @@ Select **Add a Payment Method**.
 
 Choose a bank or payment service and enter the requested account information.
 
-
-
-<img src="../.gitbook/assets/Image image13 (1).png" alt="Select a Payment Method" height="418" width="365">
+<img src="../.gitbook/assets/Image image13.png" alt="Select a Payment Method" height="418" width="365">
 {% endstep %}
 
 {% step %}

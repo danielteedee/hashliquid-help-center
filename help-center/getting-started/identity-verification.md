@@ -63,7 +63,7 @@ Review the information extracted from your document. Complete any required field
 
 Complete the liveness check by following the actions shown on screen.
 
-<img src="../assets/verify-liveness-check.png" alt="Complete liveness check" height="295" width="523">
+<img src="../.gitbook/assets/verify-liveness-check (1).png" alt="Complete liveness check" height="295" width="523">
 {% endstep %}
 {% endstepper %}
 

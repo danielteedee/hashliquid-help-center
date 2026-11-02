@@ -9,7 +9,7 @@ HashLiquid is a P2P crypto trading platform where eligible users can buy and sel
 
 Get started at [hashliquid.com](https://www.hashliquid.com/).
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-09-28 at 09.49.47 (1).png" alt="HashLiquid home page"><figcaption><p>HashLiquid home page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-28 at 09.49.47.png" alt="HashLiquid home page"><figcaption><p>HashLiquid home page</p></figcaption></figure>
 
 ## How does HashLiquid P2P trading work?
 

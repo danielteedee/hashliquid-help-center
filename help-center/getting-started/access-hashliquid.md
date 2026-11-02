@@ -25,7 +25,7 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 Only approve the request if you recognize HashLiquid and the Binance Account shown on the page.
 {% endhint %}
 
-<img src="../.gitbook/assets/Image image3 (2).png" alt="Review Binance authorization" width="281">
+<img src="../.gitbook/assets/Image image3.png" alt="Review Binance authorization" width="281">
 
 ## Access with Binance Wallet or WalletConnect
 

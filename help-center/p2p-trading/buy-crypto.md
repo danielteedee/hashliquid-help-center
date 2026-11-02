@@ -39,7 +39,7 @@ Under **Pay Using**, select an available Payment Method.
 
 Select **Select Ads**.
 
-<figure><img src="../.gitbook/assets/USER_07_01_Select_Advertisement (1).png" alt="Select an Advertisement"><figcaption><p>Select an Advertisement</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USER_07_01_Select_Advertisement.png" alt="Select an Advertisement"><figcaption><p>Select an Advertisement</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
