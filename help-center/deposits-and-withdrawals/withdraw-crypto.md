@@ -1,16 +1,16 @@
 ---
-description: Transfer USDT out of your HashLiquid Account via BNB Chain.
+description: Transfer USDT out of your HashLiquid Account via BNB Smart Chain.
 icon: arrow-up-from-bracket
 ---
 
 # How do I withdraw crypto from HashLiquid?
 
-Use **Withdraw** to transfer USDT from your HashLiquid Account via BNB Chain. Before confirming, check the account or wallet shown for the transfer.
+Use **Withdraw** to transfer USDT from your HashLiquid Account via BNB Smart Chain. Before confirming, check the account or wallet shown for the transfer.
 
 ## Before you begin
 
 * Check the account or wallet displayed on the withdrawal page. Depending on how you accessed HashLiquid, the page may show **Binance Funding Wallet**, **HashLiquid Account**, or **Connected Wallet**.
-* Make sure the receiving account or wallet shown supports USDT via BNB Chain.
+* Make sure the receiving account or wallet shown supports USDT via BNB Smart Chain.
 * Make sure your HashLiquid balance covers the withdrawal amount and any fee shown.
 
 {% hint style="danger" %}
@@ -35,7 +35,7 @@ Make sure the **Withdraw** tab is selected.
 {% step %}
 **Check the asset and network**
 
-Confirm that the asset is **USDT** and the network is **BNB Chain**.
+Confirm that the asset is **USDT** and the network is **BNB Smart Chain**.
 {% endstep %}
 
 {% step %}
@@ -77,11 +77,8 @@ Open the account menu, select **Transaction History**, and open the relevant wit
 
 Do not submit the same withdrawal again while it is **Processing**. If it remains unresolved, [contact HashLiquid Support](../troubleshooting-and-support/contact-hash-support.md) with the asset, amount, network, and submission time. Include the transaction hash or ID if one is available.
 
-{% hint style="warning" %}
-HashLiquid Support will never ask for your password, private key, or recovery phrase.
-{% endhint %}
-
 ## Related articles
 
 * [How do I deposit crypto to HashLiquid?](deposit-crypto.md)
 * [What should I do if my deposit or withdrawal is delayed or failed?](../troubleshooting-and-support/delayed-transfers.md)
+* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/wrong-network.md)

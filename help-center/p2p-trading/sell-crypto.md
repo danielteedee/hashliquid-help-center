@@ -9,9 +9,7 @@ icon: hand-holding-dollar
 
 You can sell crypto through **Express** or **P2P Zone** and receive payment through a [Payment Method](../getting-started/payment-methods.md) added to your HashLiquid account.
 
-{% hint style="danger" %}
-**Important:** Release crypto only after you have confirmed that the full payment has arrived in your own bank or payment account. Do not rely only on a screenshot or the buyer's payment notification.
-{% endhint %}
+**Release crypto only after the full payment has arrived in your own bank or payment account.** A screenshot or the buyer's payment notification is not proof of payment.
 
 ## Place a sell order
 
@@ -107,7 +105,7 @@ Wait for the buyer to make payment. You can contact the buyer through the order 
 {% step %}
 **Confirm the payment arrived**
 
-After the buyer marks the order as paid, open your bank or payment-provider account and confirm that the full payment has arrived.
+After the buyer selects **I've Paid**, open your bank or payment-provider account and confirm that the full payment has arrived.
 {% endstep %}
 
 {% step %}
@@ -139,4 +137,5 @@ Use the order chat and [raise a Dispute](../troubleshooting-and-support/disputes
 ## Related articles
 
 * [How do I add, edit, or remove a Payment Method?](../getting-started/payment-methods.md)
+* [How do I stay safe on HashLiquid?](../getting-started/stay-safe.md)
 * [What should I do if there is a payment or crypto-release problem?](../troubleshooting-and-support/payment-release-problems.md)

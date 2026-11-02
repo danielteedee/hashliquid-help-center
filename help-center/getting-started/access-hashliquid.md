@@ -13,7 +13,7 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 2. Choose **Log in with Email**, **Google**, **Binance Login**, **Binance Wallet**, or **Wallet Connect**.
 3. Follow the on-screen prompts for the method you selected. Email and Google users complete the sign-in prompts shown by HashLiquid; Binance and wallet users may also need to authorize the connection.
 
-<img src="../.gitbook/assets/Image image2.png" alt="Hashliquid access options" width="375">
+<img src="../.gitbook/assets/Image image2.png" alt="HashLiquid access options" width="375">
 
 ## Access with Binance Login
 
@@ -25,32 +25,31 @@ You can access HashLiquid with email, Google, Binance Login, Binance Wallet, or 
 Only approve the request if you recognize HashLiquid and the Binance Account shown on the page.
 {% endhint %}
 
-<img src="../.gitbook/assets/Image image3 (2).png" alt="Review Binance Authorization" width="281">
+<img src="../.gitbook/assets/Image image3 (2).png" alt="Review Binance authorization" width="281">
 
-Access with Binance Wallet or WalletConnect
+## Access with Binance Wallet or WalletConnect
 
 1. Select **Binance Wallet** or **Wallet Connect** on the HashLiquid access page.
 2. If you selected **Wallet Connect**, choose an available wallet.
 3. Approve the connection request in your wallet, then return to HashLiquid.
 
-{% hint style="info" %}
 Connecting a wallet never requires you to share your recovery phrase or private key.
-{% endhint %}
 
 ## Where can I find my account features?
 
-After you sign in, select the **account** icon in the upper-right corner. From the account menu, you can access:
+After you sign in, select the **account** icon in the upper-right corner. The account menu shows your available USDT balance and gives you access to:
 
 * **Edit nickname** (the pencil icon next to your name)
-* **Deposit** and **Withdraw**
+* **Transfer**, for deposits and withdrawals
 * **Transaction History**
 * **Payment Method**
 * **Verifications**
 * **Notification**
-* **FAQ**
 * **Disconnect**
 
-<img src="../.gitbook/assets/Image image4.png" alt="Hashliquid Account Menu" width="375">
+You can also select **Deposit** or **Post Ads** from the top bar.
+
+<img src="../.gitbook/assets/Image image4.png" alt="HashLiquid account menu" width="375">
 
 ### Set up order notifications
 
@@ -66,3 +65,4 @@ Keep at least one channel enabled while you have an active P2P order.
 
 * [How do I complete identity verification on HashLiquid?](identity-verification.md)
 * [How do I add, edit, or remove a Payment Method?](payment-methods.md)
+* [How do I stay safe on HashLiquid?](stay-safe.md)

@@ -7,9 +7,9 @@ icon: circle-info
 
 HashLiquid is a P2P crypto trading platform where eligible users can buy and sell crypto using supported local payment methods. You can access HashLiquid by email, Google, Binance Login, Binance Wallet, or WalletConnect.
 
-Get started by visiting - [https://www.hashliquid.com/](https://www.hashliquid.com/)
+Get started at [hashliquid.com](https://www.hashliquid.com/).
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-09-28 at 09.49.47 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-09-28 at 09.49.47 (1).png" alt="HashLiquid home page"><figcaption><p>HashLiquid home page</p></figcaption></figure>
 
 ## How does HashLiquid P2P trading work?
 
@@ -20,9 +20,7 @@ When you place an order, you trade with a Merchant under the price, order limits
 
 HashLiquid provides the order page, chat, status updates, and Dispute process used to complete the trade.
 
-{% hint style="warning" %}
-**Security reminder:** Keep order-related communication in the HashLiquid order chat. Never share your password, verification code, private key, or recovery phrase.
-{% endhint %}
+Keep order-related communication in the HashLiquid order chat. For more tips, see [How do I stay safe on HashLiquid?](stay-safe.md)
 
 ## Express and P2P Zone
 
@@ -46,6 +44,7 @@ Before placing an order, always review the price, limits, payment method, and **
 
 ## Related articles
 
+* [Your first trade on HashLiquid](your-first-trade.md)
 * [How do I access HashLiquid?](access-hashliquid.md)
 * [How do I buy crypto on HashLiquid?](../p2p-trading/buy-crypto.md)
 * [How do I sell crypto on HashLiquid?](../p2p-trading/sell-crypto.md)

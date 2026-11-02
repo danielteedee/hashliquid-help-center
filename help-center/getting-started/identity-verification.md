@@ -26,19 +26,19 @@ Select **Verifications**.
 **Choose your country and document**
 
 Select your **Country of Residence** and document type.
+
+<img src="../.gitbook/assets/Image image6.png" alt="Select country and identity document" height="295" width="523">
 {% endstep %}
 
 {% step %}
-<img src="../.gitbook/assets/Image image6.png" alt="Select country anf identity document" height="295" width="523">
-
 **Choose a verification device**
 
 Choose **Verify with Current Device**, or select **Verify with Phone** and scan the QR code.
+
+<img src="../.gitbook/assets/Image image7.png" alt="Choose verification device" height="295" width="523">
 {% endstep %}
 
 {% step %}
-<img src="../.gitbook/assets/Image image7.png" alt="Choose Verification device" height="295" width="523">
-
 **Upload your document**
 
 Follow the on-screen instructions to upload your document. If you use an ID Card, upload both requested sides.
@@ -46,26 +46,24 @@ Follow the on-screen instructions to upload your document. If you use an ID Card
 {% hint style="info" %}
 Make sure the document is clear, complete, and belongs to you.
 {% endhint %}
+
+<img src="../.gitbook/assets/Image image8.png" alt="Upload identity document" height="295" width="523">
 {% endstep %}
 
 {% step %}
-<img src="../.gitbook/assets/Image image8.png" alt="Upload identity document" height="295" width="523">
-
 **Confirm your information**
 
 Review the information extracted from your document. Complete any required fields, then select **Continue**.
+
+<img src="../.gitbook/assets/Image image9.png" alt="Confirm identity information" height="347" width="523">
 {% endstep %}
 
 {% step %}
-<img src="../.gitbook/assets/Image image9.png" alt="confirm Identity Infiormation" height="347" width="523">
-
 **Complete the liveness check**
 
 Complete the liveness check by following the actions shown on screen.
-{% endstep %}
 
-{% step %}
-<img src="../.gitbook/assets/Image image11 (1).png" alt="complete liveness check" height="295" width="523">
+<img src="../assets/verify-liveness-check.png" alt="Complete liveness check" height="295" width="523">
 {% endstep %}
 {% endstepper %}
 
@@ -81,7 +79,7 @@ Select **Try Again**, then:
 * Remove glasses, a mask, or a hat.
 * Keep your full face inside the camera frame.
 
-<img src="../.gitbook/assets/Image image11.png" alt="Retry Liveness check" height="295" width="523">
+<img src="../.gitbook/assets/Image image11.png" alt="Retry liveness check" height="295" width="523">
 
 ## Related articles
 

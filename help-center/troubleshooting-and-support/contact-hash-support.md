@@ -3,7 +3,7 @@ description: Reach the Hash Support team through live chat.
 icon: headset
 ---
 
-# Contact Hash Support
+# Contact HashLiquid Support
 
 Select the headset icon on HashLiquid to open Hash Support.
 

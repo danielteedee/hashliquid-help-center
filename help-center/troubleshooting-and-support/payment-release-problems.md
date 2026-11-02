@@ -14,9 +14,7 @@ If a P2P order does not proceed as expected, keep the order open and contact the
 3. Contact the seller through the order chat.
 4. If the issue is not resolved and **Dispute** is available, [raise a Dispute](disputes.md) from the order page.
 
-{% hint style="warning" %}
-Do not cancel an order after you have paid unless the funds have been returned to your payment account.
-{% endhint %}
+**Do not cancel an order after you have paid** unless the funds have been returned to your payment account.
 
 ## The buyer marked the order as paid, but I haven't received payment
 
@@ -44,3 +42,4 @@ Never release crypto because the counterparty is pressuring you. Release it only
 
 * [How do I open and manage a Dispute?](disputes.md)
 * [How do I view and manage my P2P orders?](../p2p-trading/manage-orders.md)
+* [How do I stay safe on HashLiquid?](../getting-started/stay-safe.md)

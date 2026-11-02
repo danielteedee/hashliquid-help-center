@@ -37,4 +37,5 @@ Provide the transfer type, asset, amount, network, time, and transaction ID if a
 
 * [How do I deposit crypto to HashLiquid?](../deposits-and-withdrawals/deposit-crypto.md)
 * [How do I withdraw crypto from HashLiquid?](../deposits-and-withdrawals/withdraw-crypto.md)
-* [Contact Hash Support](contact-hash-support.md)
+* [What if I sent the wrong asset or used the wrong network?](wrong-network.md)
+* [Contact HashLiquid Support](contact-hash-support.md)

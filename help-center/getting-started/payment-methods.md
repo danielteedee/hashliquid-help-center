@@ -21,6 +21,8 @@ Sign in to HashLiquid and select the **account** icon.
 {% endstep %}
 
 {% step %}
+**Open Payment Method**
+
 Select **Payment Method**.
 {% endstep %}
 
@@ -31,7 +33,7 @@ Select **Add a Payment Method**.
 
 
 
-<img src="../.gitbook/assets/Image image12 (1).png" alt="payment method list" height="418" width="327">
+<img src="../.gitbook/assets/Image image12 (1).png" alt="Payment Method list" height="418" width="327">
 {% endstep %}
 
 {% step %}
@@ -41,7 +43,7 @@ Choose a bank or payment service and enter the requested account information.
 
 
 
-<img src="../.gitbook/assets/Image image13 (1).png" alt="Select a payment method" height="418" width="365">
+<img src="../.gitbook/assets/Image image13 (1).png" alt="Select a Payment Method" height="418" width="365">
 {% endstep %}
 
 {% step %}
@@ -51,9 +53,7 @@ Review the details, then confirm to save the Payment Method.
 {% endstep %}
 {% endstepper %}
 
-{% hint style="danger" %}
 Never provide an online-banking password, card PIN, wallet private key, or recovery phrase when adding a Payment Method.
-{% endhint %}
 
 ## Edit or remove a Payment Method
 
@@ -62,7 +62,7 @@ Never provide an online-banking password, card PIN, wallet private key, or recov
 3. Select **Edit** to update it, or **Delete** to remove it.
 4. Confirm the change.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Removing a Payment Method prevents it from being selected for new HashLiquid orders. Resolve any active order using that Payment Method before removing it.
 {% endhint %}
 

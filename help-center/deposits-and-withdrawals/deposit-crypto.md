@@ -7,7 +7,7 @@ icon: arrow-down-to-bracket
 
 # How do I deposit crypto to HashLiquid?
 
-Use **Deposit** to transfer USDT from your connected wallet to your HashLiquid Account via BNB Chain.
+Use **Deposit** to transfer USDT from your connected wallet to your HashLiquid Account via BNB Smart Chain.
 
 ## Deposit crypto
 
@@ -27,7 +27,7 @@ Confirm that the **Deposit** tab is selected.
 {% step %}
 **Check the network and asset**
 
-Check that the network is **BNB Chain** and the asset is **USDT**.
+Check that the network is **BNB Smart Chain** and the asset is **USDT**.
 {% endstep %}
 
 {% step %}
@@ -37,7 +37,7 @@ Enter the amount, or select **Max** to use the available balance shown on the pa
 
 
 
-<img src="../.gitbook/assets/Image image14.png" alt="enter a deposit amount" width="563">
+<img src="../.gitbook/assets/Image image14.png" alt="Enter a deposit amount" width="563">
 {% endstep %}
 
 {% step %}
@@ -69,11 +69,8 @@ To check the latest status:
 
 If the transaction is complete in your wallet but your HashLiquid balance has not updated, [contact HashLiquid Support](../troubleshooting-and-support/contact-hash-support.md). Provide the wallet transaction hash or ID if it is available.
 
-{% hint style="warning" %}
-Never share your private key or recovery phrase.
-{% endhint %}
-
 ## Related articles
 
 * [How do I withdraw crypto from HashLiquid?](withdraw-crypto.md)
 * [What should I do if my deposit or withdrawal is delayed or failed?](../troubleshooting-and-support/delayed-transfers.md)
+* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/wrong-network.md)

@@ -7,7 +7,7 @@ icon: list-check
 
 # How do I view and manage my P2P orders?
 
-Open **Order History** to find your Buy and Sell orders, check their status, and continue an ongoing order.
+Open your orders to find your Buy and Sell orders, check their status, and continue an ongoing order.
 
 ## View your P2P orders
 
@@ -65,9 +65,7 @@ Open the order and follow the action shown for its current status. Depending on 
 
 You can use the order chat to send text, images, or video when these options are available.
 
-{% hint style="warning" %}
-**Important:** If you are selling crypto, verify the payment in your own bank or payment account before releasing crypto. A screenshot or chat message alone is not proof of receipt.
-{% endhint %}
+If you are selling crypto, verify the payment in your own bank or payment account before releasing crypto. A screenshot or chat message alone is not proof of receipt.
 
 ## Cancel an order
 

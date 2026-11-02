@@ -86,7 +86,7 @@ Review the application, then select **Confirm**.
 {% endstep %}
 {% endstepper %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 You can submit up to three Merchant applications within three months. Check every file carefully before selecting **Confirm**.
 {% endhint %}
 
@@ -98,3 +98,4 @@ Submission does not guarantee approval. After the review, HashLiquid will contac
 
 * [How do I complete identity verification on HashLiquid?](../getting-started/identity-verification.md)
 * [How do I add, edit, or remove a Payment Method?](../getting-started/payment-methods.md)
+* [Merchant Referral Guide](../rewards/merchant-referral-guide.md)

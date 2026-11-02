@@ -5,6 +5,10 @@ icon: cart-shopping
 
 # How do I buy crypto on HashLiquid?
 
+{% hint style="success" %}
+🎁 **Trade, Invite and Earn:** your first eligible purchase of at least 30 USDT in a single order can earn 3 USDT. [See the campaign](../rewards/trade-invite-and-earn.md)
+{% endhint %}
+
 You can buy crypto through **Express** or the **P2P Zone**. Before placing an order, check the price, order limits, Payment Method, and the advertiser's terms.
 
 ## Place a buy order
@@ -99,9 +103,9 @@ Open the order and use the payment details shown to transfer the exact amount th
 {% endstep %}
 
 {% step %}
-**Mark the order as paid**
+**Select I've Paid**
 
-Upload payment proof if requested, then select **Mark as Paid** only after the transfer has been submitted successfully.
+Upload payment proof if requested, then select **I've Paid** only after the transfer has been submitted successfully. Do this before the countdown on the order page ends.
 
 <figure><img src="../.gitbook/assets/USER_07_03_Complete_Payment.png" alt="Complete payment"><figcaption><p>Complete payment</p></figcaption></figure>
 {% endstep %}
@@ -128,4 +132,5 @@ Do not cancel an order after you have paid. Do not send payment to an account th
 ## Related articles
 
 * [How do I view and manage my P2P orders?](manage-orders.md)
+* [Trade, Invite and Earn](../rewards/trade-invite-and-earn.md)
 * [What should I do if there is a payment or crypto-release problem?](../troubleshooting-and-support/payment-release-problems.md)
