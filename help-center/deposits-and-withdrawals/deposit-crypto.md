@@ -73,4 +73,4 @@ If the transaction is complete in your wallet but your HashLiquid balance has no
 
 * [How do I withdraw crypto from HashLiquid?](withdraw-crypto.md)
 * [What should I do if my deposit or withdrawal is delayed or failed?](../troubleshooting-and-support/delayed-transfers.md)
-* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/wrong-network.md)
+* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/what-if-i-sent-the-wrong-asset-or-used-the-wrong-network.md)

@@ -5,6 +5,10 @@ icon: handshake
 
 # Merchant Referral Guide
 
+{% hint style="warning" %}
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+{% endhint %}
+
 During the campaign, Merchants can earn **5 USDT** for each eligible new trading user they bring in, subject to review.
 
 {% hint style="info" %}

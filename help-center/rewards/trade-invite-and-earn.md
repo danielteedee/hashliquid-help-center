@@ -5,6 +5,10 @@ icon: gift
 
 # Trade, Invite and Earn
 
+{% hint style="warning" %}
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+{% endhint %}
+
 Complete your first eligible purchase and receive **3 USDT**. Invite new users to earn referral rewards.
 
 {% hint style="info" %}

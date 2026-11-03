@@ -81,4 +81,4 @@ Do not submit the same withdrawal again while it is **Processing**. If it remain
 
 * [How do I deposit crypto to HashLiquid?](deposit-crypto.md)
 * [What should I do if my deposit or withdrawal is delayed or failed?](../troubleshooting-and-support/delayed-transfers.md)
-* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/wrong-network.md)
+* [What if I sent the wrong asset or used the wrong network?](../troubleshooting-and-support/what-if-i-sent-the-wrong-asset-or-used-the-wrong-network.md)

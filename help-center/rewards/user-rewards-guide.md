@@ -5,6 +5,10 @@ icon: coins
 
 # User Rewards Guide
 
+{% hint style="warning" %}
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+{% endhint %}
+
 Complete your first eligible purchase to receive a one-time **3 USDT** reward. Once you complete KYC, earn **3 USDT** for each eligible new trading user you refer.
 
 {% hint style="info" %}

@@ -7,8 +7,8 @@ icon: house
 
 Welcome 👋 Find step-by-step guides for getting started, funding your account, trading on P2P, and resolving problems.
 
-{% hint style="success" %}
-🎁 **New: Trade, Invite and Earn.** Get 3 USDT for your first eligible purchase and earn rewards for every eligible new user you invite. [See how it works](rewards/trade-invite-and-earn.md)
+{% hint style="warning" %}
+📢 **The New User Trading Campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](rewards/campaign-pause.md)
 {% endhint %}
 
 <table data-view="cards">
@@ -27,8 +27,8 @@ Welcome 👋 Find step-by-step guides for getting started, funding your account,
     </tr>
     <tr>
       <td><strong>🎁 Trade, Invite and Earn</strong></td>
-      <td>Get 3 USDT for your first eligible purchase and earn rewards for inviting new users.</td>
-      <td><a href="rewards/trade-invite-and-earn.md">trade-invite-and-earn.md</a></td>
+      <td>Temporarily paused. Read the latest update and the campaign details.</td>
+      <td><a href="rewards/campaign-pause.md">campaign-pause.md</a></td>
     </tr>
     <tr>
       <td><strong>👤 Account</strong></td>
@@ -60,7 +60,7 @@ Welcome 👋 Find step-by-step guides for getting started, funding your account,
 
 ## Popular articles
 
-* [Trade, Invite and Earn](rewards/trade-invite-and-earn.md)
+* [Notice: Temporary Pause of the New User Trading Campaign](rewards/campaign-pause.md)
 * [Your first trade on HashLiquid](getting-started/your-first-trade.md)
 * [How do I buy crypto on HashLiquid?](p2p-trading/buy-crypto.md)
 * [How do I sell crypto on HashLiquid?](p2p-trading/sell-crypto.md)

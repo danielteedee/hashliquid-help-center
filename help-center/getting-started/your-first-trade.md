@@ -5,10 +5,6 @@ icon: flag-checkered
 
 # Your first trade on HashLiquid
 
-{% hint style="success" %}
-🎁 **Trade, Invite and Earn:** complete your first eligible purchase of at least 30 USDT in a single order to earn 3 USDT. [See the campaign](../rewards/trade-invite-and-earn.md)
-{% endhint %}
-
 New to HashLiquid? Follow these five steps to set up your account and complete your first buy order. Each step links to a full guide.
 
 {% stepper %}
