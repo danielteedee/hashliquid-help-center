@@ -50,7 +50,9 @@ You need a good merchant profile on other exchanges.
 {% step %}
 **Contact the BD team on Telegram**
 
-Message the HashLiquid BD team at [t.me/fastbuild01](https://t.me/fastbuild01) to apply. Only use this official link.
+Message the HashLiquid BD team at [t.me/fastbuild01](https://t.me/fastbuild01?text=Hi%20HashLiquid%20BD%20team%20%F0%9F%91%8B%0A%0AI%27d%20like%20to%20apply%20to%20become%20a%20Partner%20Merchant.%0A%0AHashLiquid%20merchant%20name%3A%0AMerchant%20profiles%20on%20other%20exchanges%20%28links%29%3A%0AMain%20market%20%28country%20and%20currency%29%3A) to apply. The link opens the chat with a short application message already typed in: fill in your details and send it. Only use this official link.
+
+If the message isn't filled in for you, include your HashLiquid merchant name, links to your merchant profiles on other exchanges, and your main market.
 {% endstep %}
 
 {% step %}
