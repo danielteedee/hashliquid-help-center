@@ -8,7 +8,7 @@ icon: house
 Welcome 👋 Find step-by-step guides for getting started, funding your account, trading on P2P, and resolving problems.
 
 {% hint style="warning" %}
-📢 **The New User Trading Campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](rewards/campaign-pause.md)
+📢 **The New User Trading Campaign is temporarily paused.** New participation is suspended while we complete reviews and verification, and campaign rewards have been revised. Regular P2P trading is not affected. [Read the latest update](rewards/campaign-pause.md)
 {% endhint %}
 
 <table data-view="cards">

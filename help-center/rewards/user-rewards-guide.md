@@ -1,15 +1,15 @@
 ---
-description: "Earn 3 USDT for your first eligible purchase and 3 USDT for each eligible new user you refer."
+description: "Earn 1 USDT for your first eligible purchase and 1 USDT for each eligible new user you refer."
 icon: coins
 ---
 
 # User Rewards Guide
 
 {% hint style="warning" %}
-**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. The rewards on this page have been revised and apply when the campaign resumes. [Read the latest update](campaign-pause.md)
 {% endhint %}
 
-Complete your first eligible purchase to receive a one-time **3 USDT** reward. Once you complete KYC, earn **3 USDT** for each eligible new trading user you refer.
+Complete your first eligible purchase to receive a one-time **1 USDT** reward. Once you complete KYC, earn **1 USDT** for each eligible new trading user you refer.
 
 {% hint style="info" %}
 **Campaign starts:** November 2, 2026. All campaign and settlement times are in UTC.
@@ -19,8 +19,8 @@ Complete your first eligible purchase to receive a one-time **3 USDT** reward. O
 
 | Reward | Requirement | Amount |
 | --- | --- | --- |
-| **First Purchase** | Complete your first eligible purchase and pass review | 3 USDT, one time |
-| **User Referral** | Refer a new user who completes an eligible purchase and passes review | 3 USDT per user |
+| **First Purchase** | Complete your first eligible purchase and pass review | 1 USDT, one time |
+| **User Referral** | Refer a new user who completes an eligible purchase and passes review | 1 USDT per user |
 
 Rewards are first recorded as **Credit**. Approved rewards are paid in USDT according to the [settlement schedule](#when-are-rewards-paid) below.
 
@@ -40,7 +40,7 @@ Your account registration date alone does not determine eligibility. If you regi
 * Cancelled or invalid orders do not count.
 * Additional purchases do not create another new-user reward.
 
-Go to **Reward Center** > **My Tasks** to check your progress. Once you complete an eligible purchase, **3 USDT** Credit is recorded.
+Go to **Reward Center** > **My Tasks** to check your progress. Once you complete an eligible purchase, **1 USDT** Credit is recorded.
 
 New to buying? Follow the [Trading Tutorial](../p2p-trading/buy-crypto.md).
 
@@ -85,13 +85,13 @@ Clicking a link, registering, or completing KYC alone does not generate a referr
 
 ### Reward and limit
 
-You earn **3 USDT** for each eligible new user you refer, up to **50 rewarded users** per verified identity during this campaign.
+You earn **1 USDT** for each eligible new user you refer, up to **50 rewarded users** per verified identity during this campaign.
 
 | Approved users | Referral reward |
 | --- | --- |
-| 10 | 30 USDT |
-| 30 | 90 USDT |
-| 50 | 150 USDT |
+| 10 | 10 USDT |
+| 30 | 30 USDT |
+| 50 | 50 USDT |
 
 The 51st and later referrals do not generate referral rewards. Eligible new users may still receive their own first-purchase reward, subject to the campaign period and remaining allocation. The limit applies to your verified identity and does not increase if you use another account or login method, or become a Merchant.
 

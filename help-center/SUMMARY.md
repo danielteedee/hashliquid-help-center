@@ -11,6 +11,7 @@
 ## 🎁 Rewards
 
 * [Notice: Temporary Pause of the New User Trading Campaign](rewards/campaign-pause.md "📢 Campaign paused")
+* [Campaign Rewards at a Glance](rewards/rewards-at-a-glance.md "💡 Rewards at a glance")
 * [Trade, Invite and Earn](rewards/trade-invite-and-earn.md)
 * [User Rewards Guide](rewards/user-rewards-guide.md)
 * [Merchant Referral Guide](rewards/merchant-referral-guide.md)

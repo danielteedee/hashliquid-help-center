@@ -1,15 +1,15 @@
 ---
-description: "Merchants earn 5 USDT for each eligible new trading user they bring in."
+description: "Merchants earn 2 USDT for each eligible new trading user they bring in."
 icon: handshake
 ---
 
 # Merchant Referral Guide
 
 {% hint style="warning" %}
-**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. The rewards on this page have been revised and apply when the campaign resumes. [Read the latest update](campaign-pause.md)
 {% endhint %}
 
-During the campaign, Merchants can earn **5 USDT** for each eligible new trading user they bring in, subject to review.
+During the campaign, Merchants can earn **2 USDT** for each eligible new trading user they bring in, subject to review.
 
 {% hint style="info" %}
 **Campaign starts:** November 2, 2026. All campaign and settlement times are in UTC.
@@ -19,9 +19,9 @@ During the campaign, Merchants can earn **5 USDT** for each eligible new trading
 
 | Requirement | Reward |
 | --- | --- |
-| Bring in a new user who completes their first eligible purchase and passes review | **5 USDT** per user |
+| Bring in a new user who completes their first eligible purchase and passes review | **2 USDT** per user |
 
-Each verified identity can earn referral rewards for up to **50 users** during the campaign. Rewards are first recorded as **Credit** and paid in USDT after approval. Eligible new users can also receive their own one-time 3 USDT [first-purchase reward](user-rewards-guide.md#first-purchase-reward).
+Each verified identity can earn referral rewards for up to **50 users** during the campaign. Rewards are first recorded as **Credit** and paid in USDT after approval. Eligible new users can also receive their own one-time 1 USDT [first-purchase reward](user-rewards-guide.md#first-purchase-reward).
 
 ## How to earn
 
@@ -43,9 +43,9 @@ Each new user can have only one eligible referral source and cannot generate bot
 
 | Approved users | Merchant referral reward |
 | --- | --- |
-| 10 | 50 USDT |
-| 30 | 150 USDT |
-| 50 | 250 USDT |
+| 10 | 20 USDT |
+| 30 | 60 USDT |
+| 50 | 100 USDT |
 
 The 51st and later referrals do not generate merchant referral rewards. Eligible new users may still receive their own first-purchase reward, subject to the campaign period and remaining allocation.
 

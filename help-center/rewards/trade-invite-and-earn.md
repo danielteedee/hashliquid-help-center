@@ -1,15 +1,15 @@
 ---
-description: "Complete your first eligible purchase to receive 3 USDT, and invite new users to earn referral rewards."
+description: "Complete your first eligible purchase to receive 1 USDT, and invite new users to earn referral rewards."
 icon: gift
 ---
 
 # Trade, Invite and Earn
 
 {% hint style="warning" %}
-**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. [Read the announcement](campaign-pause.md)
+**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. The rewards on this page have been revised and apply when the campaign resumes. [Read the latest update](campaign-pause.md)
 {% endhint %}
 
-Complete your first eligible purchase and receive **3 USDT**. Invite new users to earn referral rewards.
+Complete your first eligible purchase and receive **1 USDT**. Invite new users to earn referral rewards.
 
 {% hint style="info" %}
 **Campaign starts:** November 2, 2026. All campaign and settlement times are in UTC.
@@ -19,9 +19,9 @@ Complete your first eligible purchase and receive **3 USDT**. Invite new users t
 
 | Activity | Reward |
 | --- | --- |
-| Complete your first eligible purchase | **3 USDT**, one time |
-| Refer an eligible new trading user | **3 USDT** per user |
-| Bring in an eligible new trading user as a Merchant | **5 USDT** per user |
+| Complete your first eligible purchase | **1 USDT**, one time |
+| Refer an eligible new trading user | **1 USDT** per user |
+| Bring in an eligible new trading user as a Merchant | **2 USDT** per user |
 
 To qualify, the new user must complete a HashLiquid **P2P Buy order of at least 30 USDT in a single transaction**. User and merchant referral rewards are each limited to **50 rewarded users** per verified identity during the campaign.
 
@@ -73,7 +73,7 @@ View or enter your external wallet address in the **Reward Center**, where you c
     </tr>
     <tr>
       <td><strong>🤝 Merchant Referral Guide</strong></td>
-      <td>Earn 5 USDT for each eligible new trading user you bring in as a Merchant.</td>
+      <td>Earn 2 USDT for each eligible new trading user you bring in as a Merchant.</td>
       <td><a href="merchant-referral-guide.md">merchant-referral-guide.md</a></td>
     </tr>
     <tr>
