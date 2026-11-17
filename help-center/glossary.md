@@ -74,3 +74,4 @@ icon: book
 | **P2P Merchant Application Form** | The form you complete to apply to become a Merchant. Open it with Post Ads. |
 | **CIPHER** | The tool approved Merchants use to manage Advertisements, orders, Disputes, and their Merchant Funding Account. |
 | **Merchant Funding Account** | A Merchant's funding balance, managed in CIPHER. |
+| **Partner Merchant** | A founding merchant committed to competitive prices, fast trades and reliable order completion. Shown with a badge next to the merchant's name. |

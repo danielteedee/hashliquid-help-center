@@ -45,6 +45,7 @@
 ## 🏪 Merchants
 
 * [How do I apply to become a HashLiquid Merchant?](merchants/become-a-merchant.md "Become a Merchant")
+* [Merchant badges](merchants/merchant-badges.md)
 * [Getting started with CIPHER](merchants/cipher.md)
 
 ## 📖 Reference
