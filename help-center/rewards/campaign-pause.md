@@ -1,18 +1,13 @@
 ---
 description: "The New User Trading Campaign is temporarily paused while we complete reviews and verification. Regular P2P trading is not affected."
 icon: bullhorn
+hidden: true
 ---
 
 # Notice: Temporary Pause of the New User Trading Campaign
 
-{% hint style="info" %}
-**Update (November 17, 2026):** The New User Trading Campaign remains temporarily on hold. Campaign rewards have been revised and will apply when the campaign resumes:
-
-* **First purchase:** 1 USDT for your first P2P Buy order of at least 30 USDT
-* **User referral:** 1 USDT for each eligible user you refer
-* **Merchant referral:** 2 USDT for each eligible user a Merchant refers
-
-[See the revised rewards at a glance](rewards-at-a-glance.md)
+{% hint style="success" %}
+🎉 **Update (November 17, 2026):** We are happy to announce that the campaign is back online with revised rewards. [Read the resumption notice](campaign-resumed.md)
 {% endhint %}
 
 Dear HashLiquid Users,

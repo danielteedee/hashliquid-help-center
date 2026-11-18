@@ -5,15 +5,11 @@ icon: gift
 
 # Trade, Invite and Earn
 
-{% hint style="warning" %}
-**This campaign is temporarily paused.** New participation is suspended while we complete reviews and verification. Regular P2P trading is not affected. The rewards on this page have been revised and apply when the campaign resumes. [Read the latest update](campaign-pause.md)
+{% hint style="success" %}
+🎉 **We are happy to announce that this campaign is back online.** Campaign rewards have been revised, and the rewards on this page apply from November 17, 2026. The campaign started on November 2, 2026. All campaign and settlement times are in UTC. [Read the announcement](campaign-resumed.md)
 {% endhint %}
 
 Complete your first eligible purchase and receive **1 USDT**. Invite new users to earn referral rewards.
-
-{% hint style="info" %}
-**Campaign starts:** November 2, 2026. All campaign and settlement times are in UTC.
-{% endhint %}
 
 ## Campaign rewards
 

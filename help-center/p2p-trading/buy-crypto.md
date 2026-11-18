@@ -5,6 +5,10 @@ icon: cart-shopping
 
 # How do I buy crypto on HashLiquid?
 
+{% hint style="success" %}
+🎁 **Trade, Invite and Earn:** your first eligible purchase of at least 30 USDT in a single order can earn 1 USDT. [See the campaign](../rewards/trade-invite-and-earn.md)
+{% endhint %}
+
 You can buy crypto through **Express** or the **P2P Zone**. Before placing an order, check the price, order limits, Payment Method, and the advertiser's terms.
 
 ## Place a buy order
